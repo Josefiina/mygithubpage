@@ -2,10 +2,6 @@ body {
   background-color: #ffffff
 }
 
-* {
-	border: 0px;
-}
-
 div {
   height: 100px;
   margin-top: 10px;
