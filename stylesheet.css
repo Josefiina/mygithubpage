@@ -1,7 +1,11 @@
-body{
+body {
   background-color: #ffffff
 }
 
-div{
+div {
   height: 100px;
+}
+
+#education {
+  background-color: #45ADA8;
 }
