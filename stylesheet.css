@@ -14,7 +14,12 @@ img {
   max-width: 100%;
   height: auto;
 }  
-
+#mysidenav {
+  background-color: #DCDCDC;
+}
+#main {
+  background-color: #DCDCDC;
+}
 #education {
   background-color: #DCDCDC;
 }
