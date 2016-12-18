@@ -9,6 +9,10 @@ div {
   margin-bottom: 10px;
 }
 
+img {
+  size:auto;
+}  
+
 #education {
   background-color: #45ADA8;
 }
