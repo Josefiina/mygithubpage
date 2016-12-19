@@ -23,7 +23,7 @@ img {
 
 #education {
   color:white;
-  background-color:rgba(64,58,58,0.04);
+  background-color:rgba(192,192,192,0.3);
 }
 
 #work {
@@ -33,18 +33,22 @@ img {
 
 #volunteer {
   color:white;
+  background-color:rgba(192,192,192,0.3);
 }
 
 #hobbies {
   color:white;
+  background-color:rgba(192,192,192,0.3);
 }
 
 #other {
   color:white;
+  background-color:rgba(192,192,192,0.3);
 }
 
 #learning {
   color:white;
+  background-color:rgba(192,192,192,0.3);
 }
 
 #info {
