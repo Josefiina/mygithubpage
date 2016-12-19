@@ -16,32 +16,37 @@ img {
   max-width: 100%;
   height: auto;
 }  
-#mysidenav {
-  background-color: #DCDCDC;
-}
+
 #main {
   color:white;
 }
+
 #education {
-  background-color: #DCDCDC;
+  color:white;
 }
+
 #work {
-  background-color: #DCDCDC;
+  color:white;
 }
+
 #volunteer {
-  background-color: #DCDCDC;
+  color:white;
 }
+
 #hobbies {
-  background-color: #DCDCDC;
+  color:white;
 }
+
 #other {
-  background-color: #DCDCDC;
+  color:white;
 }
+
 #learning {
-  background-color: #DCDCDC;
+  color:white;
 }
+
 #info {
-  background-color: #DCDCDC;
+  color:white;
 }
 
 .sidenav {
